@@ -1,0 +1,19 @@
+{
+	"name": "tesseract",
+	"author": "Alexander Makarenko <estliberitas@gmail.com>",
+	"version": "0.0.1",
+	"description": "Tesseract OCR bindings for Node.js",
+	"tags": ["tesseract", "ocr", "image processing"],
+	"homepage": "https://github.com/estliberitas/node-tesseract",
+	"bugs": {
+		"url": "https://github.com/estliberitas/node-tesseract/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/estliberitas/node-tesseract.git"
+	},
+	"engines": [
+		"node >= 0.8"
+	],
+	"main": "./lib/tesseract.js"
+}
