@@ -5,6 +5,7 @@
  */
 
 #define BUILDING_NODE_EXTENSION
+#include <string.h>
 #include <node.h>
 #include "leptonica_pix.h"
 
