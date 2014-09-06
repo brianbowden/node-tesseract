@@ -16,7 +16,7 @@
             '-llept', '-ltesseract'
           ],
           'include_dirs': [
-            '/usr/include/leptonica', '/usr/include/tesseract'
+            '/usr/local/Cellar/leptonica/1.71/include', '/usr/local/Cellar/tesseract/3.02.02/include/tesseract'
           ]
         }]
       ]
