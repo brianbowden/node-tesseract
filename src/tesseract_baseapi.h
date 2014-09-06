@@ -7,7 +7,7 @@
 #ifndef TESSERACT_BASEAPI_H_
 #define TESSERACT_BASEAPI_H_
 
-//#include <baseapi.h>
+#include <baseapi.h>
 #include <allheaders.h>
 #include <node.h>
 #include "tesseract_bindings.h"
